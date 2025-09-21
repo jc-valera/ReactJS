@@ -1,0 +1,21 @@
+#Visual studio
+.vs/
+
+#Build result
+BLL/obj/
+BLL/bin/
+
+Common/bin/
+Common/obj/
+
+DAL/obj/
+DAL/bin/
+
+PointSales.Api/obj/
+PointSales.Api/bin/
+
+#Visual Studio Code
+.vscode
+
+# User-specific files
+*.suo
